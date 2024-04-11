@@ -1,0 +1,1 @@
+export const fruits = ['apple', 'watermelon', 'pineapple', 'passion', 'avocado'];
